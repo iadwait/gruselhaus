@@ -11,3 +11,9 @@ If you want to contact me, do so by email please. nico@gruselhaus.com
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<br>
+
+![Nico's github stats](https://github-readme-stats.vercel.app/api?username=gruselhaus&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gruselhaus)
