@@ -3,7 +3,7 @@ my name is Nico and I found a new home here on GitHub. I work professionally for
 
 Check out my Repositories below and make sure to follow me 😊
 
-If you want to contact me, do so by email please. nico@gruselhaus.com
+💬 Ask me about anything [here](https://github.com/gruselhaus/gruselhaus/issues)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
