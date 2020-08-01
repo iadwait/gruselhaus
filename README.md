@@ -1,9 +1,16 @@
-### Hi there 👋
-my name is Nico and I found a new home here on GitHub. I work professionally for [@pegasusspiele](https://github.com/pegasusspiele) and make sure that everything runs smoothly behind the technical scenes. In my free time I try to maintain communities here on GitHub and contribute my piece to a funier and at the same time better world.
+<h2 align="center">👋 Hello! I'm Nico.</h2>
+<p align="center">
+  <a href="https://gruselhaus.com">Website</a> •
+  <a href="https://twitter.com/NicoFinkernagel">Twitter</a>
+</p>
 
-Check out my Repositories below and make sure to follow me 😊
 
-💬 Ask me about anything [here](https://github.com/gruselhaus/gruselhaus/issues)
+- 🔭 I’m currently working at [@pegasusspiele](https://github.com/pegasusspiele)
+- 🌱 I’m currently learning **Go**
+- 💬 Ask me about **PHP, Git, Shopware, SAP, NodeJS** [here](https://github.com/gruselhaus/gruselhaus/issues)
+- 📫 How to reach me: [here](https://github.com/gruselhaus/gruselhaus/issues)
+- ☁️ Quote of the month: "life has no ctrl-z 🌴"
+
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
