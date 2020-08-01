@@ -15,5 +15,3 @@ No Activity tracked this Week
 <br>
 
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=gruselhaus&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gruselhaus)
