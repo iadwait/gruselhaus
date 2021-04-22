@@ -31,4 +31,4 @@ Go           47 mins         ██░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+> Provided by `GitHub Readme Stats`
